@@ -1,0 +1,32 @@
+.hello{
+    height: 850px;
+}
+.hd{
+    width:200px;
+    height: 200px;
+    position: relative;
+    left: 620px;
+}
+.foot1{
+  width: 40px;
+  height: 40px;
+  margin: 10px;
+}
+.foot2{
+  width: 40px;
+  height:40px;
+  margin: 10px;
+}
+.foot3{
+  width: 40px;
+  height: 40px;
+  margin: 10px;
+}
+button{
+  border-radius: 50px;
+  margin: 10px;
+  font-weight: bold;
+}
+button:hover{
+  background-color: green
+}
